@@ -277,6 +277,12 @@
 ||streetviewpixels-pa.googleapis.com^$important
 ||tenor.googleapis.com^$important
 ||ulp1p-pa.googleapis.com^$important
+||firebaselogging.googleapis.com^$important
+||firebaseinstallations.googleapis.com^$important
+||userlocation.googleapis.com^$important
+||abtest.api.viber.com^$important
+||crashlyticsreports-pa.googleapis.com^$important
+||app.adjust.com^$important
 #
 ||launchdarkly.com^$important
 #
