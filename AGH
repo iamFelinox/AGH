@@ -281,6 +281,7 @@
 ||firebaseinstallations.googleapis.com^$important
 ||userlocation.googleapis.com^$important
 ||abtest.api.viber.com^$important
+||mixpanel.cdn.viber.com^$important
 ||crashlyticsreports-pa.googleapis.com^$important
 ||app.adjust.com^$important
 #
