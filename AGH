@@ -284,6 +284,10 @@
 ||mixpanel.cdn.viber.com^$important
 ||crashlyticsreports-pa.googleapis.com^$important
 ||app.adjust.com^$important
+||play.google.com^$important
+||instantmessaging-pa-jms-eu.googleapis.com^$important
+||*.googlezip.net^$important
+||readaloud.googleapis.com^$important
 #
 ||launchdarkly.com^$important
 #
